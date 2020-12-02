@@ -1,0 +1,24 @@
+verse_number,"0       1
+1       2
+2       3
+3       4
+4       5
+       ..
+6231    2
+6232    3
+6233    4
+6234    5
+6235    6
+Name: verse_number, Length: 6236, dtype: int64"
+content,"0       In the name of Allah, the Entirely Merciful, t...
+1       [All] praise is [due] to Allah, Lord of the wo...
+2         The Entirely Merciful, the Especially Merciful,
+3                     Sovereign of the Day of Recompense.
+4           It is You we worship and You we ask for help.
+                              ...                        
+6231                            The Sovereign of mankind.
+6232                                  The God of mankind,
+6233          From the evil of the retreating whisperer -
+6234    Who whispers [evil] into the breasts of mankind -
+6235                    From among the jinn and mankind.""
+Name: content, Length: 6236, dtype: object"
